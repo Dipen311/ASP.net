@@ -1,0 +1,42 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Movie Types";
+}
+@{
+    var movietype = new[]{
+        new{
+            name = "fast & furious",
+            type = "Hollywood",
+            part = 9
+        },
+        new{
+            name = "Iron Man",
+            type = "Hollywood",
+            part = 3
+        },
+        new{
+            name = "Bahubali",
+            type = "Bollywood",
+            part = 2
+        },
+        new{
+            name = "Dhoom",
+            type = "Bollywood",
+            part = 3
+        },
+        new{
+            name = "Thor",
+            type = "Hollywood",
+            part = 3
+        }
+    };
+}
+@for(var i=0; i < movietype.Length; i++)
+{
+    var movie = movietype[i];
+    <text>Movie's name : @movie.name <br></text>
+    <text>Movie's Type : @movie.type <br></text>
+    <text><p id="temp">Movie's Part : @movie.part</p><br></text>
+}
+
