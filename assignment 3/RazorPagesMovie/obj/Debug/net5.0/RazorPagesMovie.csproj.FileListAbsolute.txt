@@ -1,0 +1,344 @@
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/appsettings.Development.json
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/appsettings.json
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/RazorPagesMovie
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/RazorPagesMovie.deps.json
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/RazorPagesMovie.runtimeconfig.json
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/RazorPagesMovie.runtimeconfig.dev.json
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/RazorPagesMovie.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/ref/RazorPagesMovie.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/RazorPagesMovie.pdb
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/RazorPagesMovie.Views.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/RazorPagesMovie.Views.pdb
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Humanizer.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/System.Composition.Convention.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/System.Composition.Hosting.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/System.Composition.Runtime.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/System.Runtime.Caching.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/RazorPagesMovie.csproj.AssemblyReference.cache
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/RazorPagesMovie.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/RazorPagesMovie.AssemblyInfoInputs.cache
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/RazorPagesMovie.AssemblyInfo.cs
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/RazorPagesMovie.csproj.CoreCompileInputs.cache
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/RazorPagesMovie.MvcApplicationPartsAssemblyInfo.cache
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/RazorPagesMovie.RazorAssemblyInfo.cache
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/RazorPagesMovie.RazorAssemblyInfo.cs
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/staticwebassets/RazorPagesMovie.StaticWebAssets.Manifest.cache
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/staticwebassets/RazorPagesMovie.StaticWebAssets.xml
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/scopedcss/bundle/RazorPagesMovie.styles.css
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/RazorPagesMovie.TagHelpers.input.cache
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/RazorPagesMovie.TagHelpers.output.cache
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/RazorPagesMovie.RazorCoreGenerate.cache
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/Razor/Pages/Error.cshtml.g.cs
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/Razor/Pages/Index.cshtml.g.cs
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/Razor/Pages/Privacy.cshtml.g.cs
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/Razor/Pages/_ViewImports.cshtml.g.cs
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/Razor/Pages/_ViewStart.cshtml.g.cs
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/RazorPagesMovie.RazorTargetAssemblyInfo.cache
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/RazorPagesMovie.RazorTargetAssemblyInfo.cs
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/RazorPagesMovie.Views.pdb
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/RazorPagesMovie.csproj.CopyComplete
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/RazorPagesMovie.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/ref/RazorPagesMovie.dll
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/RazorPagesMovie.pdb
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/RazorPagesMovie.genruntimeconfig.cache
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/Razor/Pages/Movies/Create.cshtml.g.cs
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/Razor/Pages/Movies/Delete.cshtml.g.cs
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/Razor/Pages/Movies/Details.cshtml.g.cs
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/Razor/Pages/Movies/Edit.cshtml.g.cs
+/home/nikhil/Sem_3/Dipen/RazorPagesMovie/obj/Debug/net5.0/Razor/Pages/Movies/Index.cshtml.g.cs
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\appsettings.Development.json
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\appsettings.json
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\RazorPagesMovie.exe
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\RazorPagesMovie.deps.json
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\RazorPagesMovie.runtimeconfig.json
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\RazorPagesMovie.runtimeconfig.dev.json
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\RazorPagesMovie.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\ref\RazorPagesMovie.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\RazorPagesMovie.pdb
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\RazorPagesMovie.Views.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\RazorPagesMovie.Views.pdb
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Humanizer.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.csproj.AssemblyReference.cache
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.GeneratedMSBuildEditorConfig.editorconfig
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.AssemblyInfoInputs.cache
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.AssemblyInfo.cs
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.csproj.CoreCompileInputs.cache
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.MvcApplicationPartsAssemblyInfo.cache
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.RazorAssemblyInfo.cache
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.RazorAssemblyInfo.cs
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\staticwebassets\RazorPagesMovie.StaticWebAssets.Manifest.cache
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\staticwebassets\RazorPagesMovie.StaticWebAssets.xml
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\scopedcss\bundle\RazorPagesMovie.styles.css
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.TagHelpers.input.cache
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.TagHelpers.output.cache
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.RazorCoreGenerate.cache
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\Razor\Pages\Movies\Create.cshtml.g.cs
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\Razor\Pages\Movies\Delete.cshtml.g.cs
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\Razor\Pages\Movies\Details.cshtml.g.cs
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\Razor\Pages\Movies\Edit.cshtml.g.cs
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\Razor\Pages\Movies\Index.cshtml.g.cs
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.RazorTargetAssemblyInfo.cache
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.RazorTargetAssemblyInfo.cs
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.Views.pdb
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.csproj.CopyComplete
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\ref\RazorPagesMovie.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.pdb
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\assignment 3\RazorPagesMovie\obj\Debug\net5.0\RazorPagesMovie.genruntimeconfig.cache
